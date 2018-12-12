@@ -36,15 +36,18 @@ Salameda	Salameda
 Salameda	Salameda
 C.			C.
 Mari		Mari
+Jose		Jose		
+---------	--------	|
+Jose		Jose		|
+Mari		Mari		|
+C.			C.			|
+Salameda	Salameda	|
+---------	--------	|
+Salameda	Salameda	|
+C.			C.			|
+Mari		Mari		|
 Jose		Jose
----------	--------
-Jose		Jose	
-Mari		Mari
-C.			C.
-Salameda	Salameda
----------	--------
-Salameda	Salameda
-C.			C.
-Mari		Mari
-Jose		Jose
----------	--------
+---------	--------	|
+
+						|
++++++++++++++++++++++++++
