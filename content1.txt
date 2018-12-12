@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jose
 Mari
 C.
@@ -8,3 +9,58 @@ C.
 Mari
 Jose
 ---------
+=======
+Jose		Jose	
+Mari		Mari
+C.			C.
+Salameda	Salameda
+---------	--------
+Salameda	Salameda
+C.			C.
+Mari		Mari
+Jose		Jose
+---------	--------
+Jose		Jose	
+Mari		Mari
+C.			C.
+Salameda	Salameda
+---------	--------
+Salameda	Salameda
+C.			C.
+Mari		Mari
+Jose		Jose
+---------	--------
+Jose		Jose	
+Mari		Mari
+C.			C.
+Salameda	Salameda
+---------	--------
+Salameda	Salameda
+C.			C.
+Mari		Mari
+Jose		Jose
+---------	--------
+Jose		Jose	
+Mari		Mari
+C.			C.
+Salameda	Salameda
+---------	--------
+Salameda	Salameda
+C.			C.
+Mari		Mari
+Jose		Jose		
+---------	--------	|
+Jose		Jose		|
+Mari		Mari		|
+C.			C.			|
+Salameda	Salameda	|
+---------	--------	|
+Salameda	Salameda	|
+C.			C.			|
+Mari		Mari		|
+Jose		Jose
+---------	--------	|
+
+						|
++++++++++++++++++++++++++
+>>>>>>> e409a121400def682494077ecde24f69597e0600
